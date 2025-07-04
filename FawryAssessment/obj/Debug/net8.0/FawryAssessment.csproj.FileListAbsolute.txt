@@ -1,0 +1,15 @@
+C:\Users\zyada\Desktop\Fawry-Assessment\FawryAssessment\bin\Debug\net8.0\FawryAssessment.exe
+C:\Users\zyada\Desktop\Fawry-Assessment\FawryAssessment\bin\Debug\net8.0\FawryAssessment.deps.json
+C:\Users\zyada\Desktop\Fawry-Assessment\FawryAssessment\bin\Debug\net8.0\FawryAssessment.runtimeconfig.json
+C:\Users\zyada\Desktop\Fawry-Assessment\FawryAssessment\bin\Debug\net8.0\FawryAssessment.dll
+C:\Users\zyada\Desktop\Fawry-Assessment\FawryAssessment\bin\Debug\net8.0\FawryAssessment.pdb
+C:\Users\zyada\Desktop\Fawry-Assessment\FawryAssessment\obj\Debug\net8.0\FawryAssessment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zyada\Desktop\Fawry-Assessment\FawryAssessment\obj\Debug\net8.0\FawryAssessment.AssemblyInfoInputs.cache
+C:\Users\zyada\Desktop\Fawry-Assessment\FawryAssessment\obj\Debug\net8.0\FawryAssessment.AssemblyInfo.cs
+C:\Users\zyada\Desktop\Fawry-Assessment\FawryAssessment\obj\Debug\net8.0\FawryAssessment.csproj.CoreCompileInputs.cache
+C:\Users\zyada\Desktop\Fawry-Assessment\FawryAssessment\obj\Debug\net8.0\FawryAssessment.sourcelink.json
+C:\Users\zyada\Desktop\Fawry-Assessment\FawryAssessment\obj\Debug\net8.0\FawryAssessment.dll
+C:\Users\zyada\Desktop\Fawry-Assessment\FawryAssessment\obj\Debug\net8.0\refint\FawryAssessment.dll
+C:\Users\zyada\Desktop\Fawry-Assessment\FawryAssessment\obj\Debug\net8.0\FawryAssessment.pdb
+C:\Users\zyada\Desktop\Fawry-Assessment\FawryAssessment\obj\Debug\net8.0\FawryAssessment.genruntimeconfig.cache
+C:\Users\zyada\Desktop\Fawry-Assessment\FawryAssessment\obj\Debug\net8.0\ref\FawryAssessment.dll
